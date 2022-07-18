@@ -1,2 +1,2 @@
 # Proyecto_SemestralTopicosII
-INTEGRANTES
+Gabriel Curiel - Joel Ruiz - Richie Ieong - Arelys Atencio - Guiomar Lara
